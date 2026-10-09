@@ -58,7 +58,7 @@ Red points are upregulated and blue points are downregulated in tumour tissue.
 Samples cluster clearly by tumour vs. normal status.
 
 
-The full report with the top-ranked genes and run summary is in [`report/TCGA-COAD_analysis_report.pdf`](report/TCGA-COAD_analysis_report.pdf).
+The full report with the top-ranked genes and run summary is in [`TCGA-COAD_analysis_report-1.pdf`](TCGA-COAD_analysis_report-1.pdf).
 
 ---
 
