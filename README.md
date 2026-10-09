@@ -53,12 +53,10 @@ The Xena counts are stored as log2(count + 1), so they were converted back to ra
 ### Volcano plot
 Red points are upregulated and blue points are downregulated in tumour tissue.
 
-![Volcano plot](figures/volcano_plot.png)
 
 ### Heatmap of top significant genes
 Samples cluster clearly by tumour vs. normal status.
 
-![Heatmap](figures/heatmap_top50.png)
 
 The full report with the top-ranked genes and run summary is in [`report/TCGA-COAD_analysis_report.pdf`](report/TCGA-COAD_analysis_report.pdf).
 
